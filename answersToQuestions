@@ -1,0 +1,2 @@
+1. Because different pins have different PVM frequency.
+2. The map() function's range reflects how many different levels of resistance arduino can detect, it is 1023 because it is the largest decimal number that a 10-digit binary number is able to represent. 
